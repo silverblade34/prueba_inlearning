@@ -4,6 +4,7 @@ Este proyecto es una plataforma desarrollada con Vue.js que permite la gestión 
 
 ## Configuración del Proyecto
 
+
 ### Instalación de Dependencias
 Para instalar todas las dependencias necesarias para el proyecto, ejecute el siguiente comando:
 ```bash
@@ -28,7 +29,10 @@ El resultado se guardará en la carpeta `dist`, lista para ser desplegada en un 
 ## Pasos para Levantar el Proyecto
 
 1. **Clonar el Repositorio**
-
+   ```bash
+   git clone https://github.com/silverblade34/prueba_inlearning.git
+   cd prueba_inlearning
+   ```
 2. **Instalar Dependencias**
    ```bash
    npm install
@@ -50,3 +54,8 @@ El resultado se guardará en la carpeta `dist`, lista para ser desplegada en un 
    ```bash
    npm run lint
    ```
+
+
+
+
+   
